@@ -5,7 +5,6 @@ Based on ubuntu:18.04 configure Git deploy environment docker.
 ## Dockerfile
 
   ``` shell
-  #python:3.7.7
   FROM ubuntu:18.04
 
   MAINTAINER The deploy Project <lqq@sioiot.com>
